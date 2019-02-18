@@ -1,0 +1,387 @@
+
+
+
+
+Википедия — свободная энциклопедия
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Заглавная_страница","wgTitle":"Заглавная страница","wgCurRevisionId":97327426,"wgRevisionId":97327426,"wgArticleId":4401,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Страницы с ежечасно очищаемым кэшем"],"wgBreakFrames":false,"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgMonthNamesShort":["","янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"],"wgRelevantPageName":"Заглавная_страница","wgRelevantArticleId":4401,"wgRequestId":"XGpmRwpAIDAAACBDic0AAADO","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":97327426,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru","usePageImages":true,"usePageDescriptions":true},"wgMFIsPageContentModelEditable":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgPoweredByHHVM":true,"wgULSCurrentAutonym":"русский","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5296","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true,"oresWikiId":"ruwiki","oresBaseUrl":"http://ores.discovery.wmnet:8081/","oresApiVersion":3});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1cm6q67",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ru"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Заглавная страница 
+Материал из Википедии — свободной энциклопедии 
+Это стабильная версия, отпатрулированная 7 января 2019.Состояниеотпатрулирована
+
+
+
+
+ Перейти к навигации
+Перейти к поиску
+.mw-parser-output .main-header{border-bottom-color:transparent;margin-bottom:0.25em;margin-top:0;padding-bottom:0;padding-top:0}.mw-parser-output .main-plainlist>ul{list-style:none;margin:0;padding:0}.mw-parser-output .main-plainlist li{margin-bottom:0}.mw-parser-output .main-top-right .mw-ui-quiet:hover,.mw-parser-output .main-top-right .mw-ui-quiet:focus,.mw-parser-output .main-footer .mw-ui-quiet:hover,.mw-parser-output .main-footer .mw-ui-quiet:focus{color:#0645ad}.mw-parser-output .mw-headline-number{display:none}@media(min-width:720px){.mw-parser-output .main-wikimedia{padding-top:1rem;padding-left:1rem;padding-right:1rem}}@media(min-width:1000px){.mw-parser-output .main-wrapper{display:flex;margin:0 -0.75rem}.mw-parser-output .main-wrapper-column{flex:1;margin:0 0.75rem}.mw-parser-output .main-wikimedia{padding-top:1.5rem;padding-left:1.5rem;padding-right:1.5rem}}
+.mw-parser-output .main-top{font-size:1rem;margin-top:1rem;padding-bottom:1.5rem}.mw-parser-output .main-top-left>p{font-size:0.875em;margin:0}.mw-parser-output .main-top-right{font-size:0.875em;margin-top:0.5em}.mw-parser-output .main-top-right>ul{display:none;margin-top:0.5rem}.mw-parser-output .main-top-right .mw-ui-button.mw-ui-quiet{padding-right:0}.mw-parser-output .main-top-header{border-bottom:0;margin-bottom:0;margin-top:0}.mw-parser-output .main-top-articleCount{margin-bottom:0}body.skin-minerva .mw-parser-output .main-top-articleCount{display:none}.mw-parser-output .main-top-mobileSearch{display:none;margin-top:1rem}body.skin-minerva .mw-parser-output .main-top-mobileSearch{display:block}.mw-parser-output .main-top-mobileSearchButton{background:#fff;border:none;box-shadow:0 2px 2px 0 rgba(0,0,0,0.25);color:#72777d;font-weight:normal;max-width:none;text-align:left;width:100%}@media(min-width:720px){.mw-parser-output .main-top{background-color:#f8f9fa;border:1px solid #c8ccd1;border-radius:2px;box-shadow:0 1px 1px rgba(0,0,0,.15);margin-bottom:1rem;padding:1rem}.mw-parser-output .main-top-right>ul{display:flex;flex-wrap:wrap}.mw-parser-output .main-top-articleCount{margin-bottom:0.5rem}body.skin-minerva .mw-parser-output .main-top-articleCount{display:block}body.skin-minerva .mw-parser-output .main-top-mobileSearch{display:none}}@media(min-width:1000px){.mw-parser-output .main-top{align-items:center;background-image:url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Wikipedia_logo_letters_banner.svg");background-position:right;background-repeat:no-repeat;display:flex;margin-bottom:1.5rem;margin-top:0.5rem;padding-bottom:0;padding-left:0;padding-right:1.5rem;padding-top:0}.mw-parser-output .main-top-left{background-image:linear-gradient(to right,#f8f9fa 0%,#f8f9fa 70%,rgba(248,249,250,0)100%);flex:3;padding:2rem 0 2rem 1.5rem}.mw-parser-output .main-top-right{flex:2;margin-top:0;text-align:right}.mw-parser-output .main-top-right>ul{align-items:center;flex-direction:row-reverse;justify-content:right;margin-top:0;text-align:left}.mw-parser-output .main-top-createArticle+li .mw-ui-button.mw-ui-quiet{padding-right:1em}}
+
+
+Добро пожаловать в Википедию,
+свободную энциклопедию, которую может редактировать каждый.
+
+Искать среди 1 529 786 статей
+
+
+Сейчас в Википедии 1 529 786 статей на русском языке.
+
+Создать статью
+Справка
+Порталы
+
+
+
+
+
+.mw-parser-output .main-box{background:#fff;border:solid #c8ccd1;border-width:1px 0;box-shadow:0 1px 1px rgba(0,0,0,0.15);margin:0 -1rem 1.5rem;padding:1rem}.mw-parser-output .main-box>p:last-child{margin-bottom:0}.mw-parser-output .main-box-image-only>.main-box-content{margin:0.5rem -1rem 0;text-align:center}.mw-parser-output .main-box-image-only>.main-box-content img{height:auto;max-width:100%}.mw-parser-output .main-box-imageCaption{text-align:center}.mw-parser-output .main-box-imageCaption>p{display:inline-block;margin-bottom:0;text-align:left}.mw-parser-output .main-box-subtitle{color:#72777d;line-height:1.25;margin-top:-.125em}.mw-parser-output .main-box-header{margin-top:-.15em}.mw-parser-output .main-box-header a{color:inherit}.mw-parser-output .main-box-subtitle+.main-box-header{margin-top:0}.mw-parser-output .main-box-header a:focus,.mw-parser-output .main-box:hover .main-box-header a,.mw-parser-output .main-box:hover .main-featuredLists-item>a{color:#0645ad}.mw-parser-output .main-footer{display:flex;justify-content:flex-end;margin-top:1rem;position:relative}.mw-parser-output .main-footer:empty{display:none}.mw-parser-output .main-footer-actions{flex:1}.mw-parser-output .main-footer-actions>ul{align-items:center;display:flex}.mw-parser-output .main-footer-menu{align-items:stretch;display:flex}.mw-parser-output .main-footer-menuToggle{align-items:center;display:flex;float:none;height:100%;opacity:0.87}.mw-parser-output .main-footer-menuToggle:hover{opacity:0.51}.mw-parser-output .main-footer-menuDropdown{background:#fff;border:1px solid #a2a9b1;border-radius:2px;box-shadow:0 2px 2px 0 rgba(0,0,0,0.25);max-width:15em;position:absolute;right:0;top:100%;z-index:100}.mw-parser-output .main-footer-menuDropdown .mw-ui-button{text-align:left;width:100%}@media(max-width:719px){.mw-parser-output .main-box-responsive-image>.floatleft,.mw-parser-output .main-box-responsive-image>.floatright{float:none;margin-left:-1rem;margin-right:-1rem;text-align:center}.mw-parser-output .main-box-responsive-image>.floatleft>a,.mw-parser-output .main-box-responsive-image>.floatright>a{display:block}}@media(min-width:720px){.mw-parser-output .main-box{border-radius:2px;border-width:1px;margin-bottom:1rem;margin-left:0;margin-right:0}}@media(min-width:1000px){.mw-parser-output .main-box{margin-bottom:1.5rem;padding:1.5rem}.mw-parser-output .main-box-image-only>.main-box-content{margin-left:-1.5rem;margin-right:-1.5rem}}
+Избранная статьяКарл Осипович Оде-де-Сион
+Карл Осипович Оде-де-Сион (фр. Audé-de-Sion, 23 августа 1758, Фаверж, Савойское герцогство, Сардинское королевство — 5 [17] января 1837 года, Санкт-Петербург, Российская империя) — савойский монах-бенедиктинец и военослужащий; на русской службе — генерал-майор, военный педагог, кавалер российских и иностранных орденов. Видный масон высших степеней посвящения. Помещик и основатель российского дворянского рода Оде-де-Сионов.
+В ранние годы неоднократно менял монашеский обет на воинскую присягу различным европейским суверенам — французскому, прусскому и польскому, в результате чего на одном поприще достиг степени доктора теологии, а на другом — капитанского чина. Поступив на русскую службу, был назначен в Варшаву офицером по особым поручениям при главнокомандующем русскими войсками в Литве и Польше генерал-аншефе графе Осипе Андреевиче Игельстроме. Отличился в боях против польских повстанцев во время восстания Костюшко.
+Был воспитателем Аркадия, сына великого полководца графа Александра Васильевича Суворова. Пользуясь доверием последнего, участвовал в финансовых махинациях его зятя графа Николая Александровича Зубова. Из частных гувернёров выдвинулся при Александре I на должность инспектора классов Пажеского корпуса, которой посвятил 25 лет.
+Получив в конце XVIII века посвящение в братство вольных каменщиков в Польше и Савойе, достиг со временем высших степеней и стал видным деятелем «золотого века» масонства в России (1802—1822). Соучредитель и мастер стула ложи «Соединённых друзей» в Санкт-Петербурге, член целого ряда других лож и высших масонских организаций.
+
+
+
+Читать
+Все 1176 избранных статей
+
+
+
+Кандидаты
+Просмотр шаблона
+
+
+
+Хорошая статьяСвежий ветер. Волга
+
+«Свежий ветер. Волга» — пейзаж русского художника Исаака Левитана (1860—1900), завершённый в 1895 году. Принадлежит Государственной Третьяковской галерее (.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}инв. 1488). Размер — 72 × 123 см. Исследователи творчества Левитана полагают, что замысел картины родился у художника во время его поездки на Волгу в 1890 году.
+Левитан работал над полотном в течение нескольких лет: первый вариант был датирован 1891 годом, а окончательная версия была готова в 1895 году. В 1896 году картина экспонировалась на 24-й выставке Товарищества передвижных художественных выставок («передвижников»), открывшейся в Петербурге; в том же году она была приобретена у автора меценатом и коллекционером Михаилом Морозовым. В 1910 году по завещанию Морозова картина была передана в Третьяковскую галерею.
+Полотно «Свежий ветер. Волга» относят к серии «жизнеутверждающих, бодрых произведений» Левитана 1895—1897 годов, в которую, кроме него, включают картины «Март» (1895), «Золотая осень» (1895), «Весна. Большая вода» (1897) и другие.
+
+
+
+Читать
+Все 3300 хороших статей
+
+
+
+Кандидаты
+Просмотр шаблона
+
+
+
+
+.mw-parser-output .main-featuredLists>.main-featuredLists-item{align-items:stretch;break-inside:avoid;clear:both;display:flex;page-break-inside:avoid;margin-bottom:1rem}.mw-parser-output .main-featuredLists>.main-featuredLists-item:last-child{margin-bottom:0}.mw-parser-output .main-featuredLists-item>img{flex:0 auto}.mw-parser-output .main-featuredLists-item>a{color:inherit;flex:1;margin-left:-50px;padding-left:66px;position:relative;text-decoration:none}.mw-parser-output .main-featuredLists-item>a:hover,.mw-parser-output .main-featuredLists-item>a:focus{color:#0645ad}.mw-parser-output .main-featuredLists-header{color:inherit;margin-bottom:0}.mw-parser-output .main-featuredLists-item>a:hover>.main-featuredLists-header{text-decoration:underline}.mw-parser-output .main-featuredLists-subtitle{color:#72777d;display:block;font-size:1em;line-height:1.25;margin-top:-.125em}
+
+
+Последний избранный список Первый выпуск стандартных марок СССР
+
+Предыдущий избранный список Знаки почтовой оплаты СССР (1991)
+
+
+
+
+
+Другие избранные списки
+
+
+
+Кандидаты
+Просмотр шаблона
+
+
+
+Изображение дня
+
+
+Самец льва (Panthera leo)
+
+
+
+
+
+
+Просмотр шаблона
+
+
+
+
+
+Из новых материаловЗнаете ли вы?
+
+Улыбающийся ангел (на илл.) стал символом Реймса из-за того, что потерял голову.
+Лишь треть членов главной ветеранской организации Канады — действительно ветераны.
+К сожалению, счастливый случай не донёс до нас свои собственные статуи.
+Принцесса Вюртембергская укрывала двух нацистов.
+
+У волосатой рыбы-жабы (на илл.) нет волос, зато есть шипы и колючки.
+Игровые миры создаются с помощью научного подхода.
+
+Мешок с мукой (на илл.) заработал 250 тыс. долларов США.
+На концерты французской звезды зрителей завлекали мороженым и веерами.
+Радистку Кэт держали в одном из лучших образцов московского ар-нуво.
+Аль-Джазира поплатилась за публикацию сведений о китайском ГУЛАГе.
+Финские доктора наук носят докторские цилиндры и докторские шпаги.
+Первые фотографы позавидовали бы современной замене своей шляпы.
+
+
+
+Обсудить
+
+
+
+Предложения
+Архив
+Просмотр шаблона
+
+
+
+Текущие события
+
+Актуальные темы
+дело Арашуковых
+политический кризис в Венесуэле
+протесты во Франции
+
+
+Фильм израильского режиссёра Надава Лапида[he] «Синонимы» удостоен «Золотого медведя» 69-го Берлинского кинофестиваля.
+Микаэла Шиффрин первой в истории чемпионатов мира по горнолыжному спорту завоевала золото в одной дисциплине четыре раза подряд.
+Официально завершена миссия марсохода «Оппортьюнити» (на илл.), последний раз выходившего на связь в июне 2018 года и проработавшего на планете более 14 лет.
+Македония официально сменила название на Северную Македонию, тем самым положив конец 27-летнему спору о названии бывшей югославской республики.
+Мексиканский наркобарон Хоакин «Коротышка» Гусман признан судом США виновным по всем 10 пунктам обвинения.
+В Лондоне вручили премии Британской академии кино и телевизионных искусств, лучшим фильмом признан «Рома» режиссёра Альфонсо Куарона.
+
+
+Другие текущие события
+
+
+
+Кандидаты
+Просмотр шаблона
+
+
+
+В этот день18 февраля
+
+1762 — Пётр III закрыл Тайную канцелярию и запретил применять при допросах пытки.
+1861 — на исходе Рисорджименто сардинский король Виктор Эммануил II принял титул короля Италии.
+1885 — в США опубликована книга Марка Твена «Приключения Гекльберри Финна».
+1911 — на Памире образовалось Сарезское озеро.
+1918 — в Москве заработал Брянский вокзал (на илл.).
+1929 — объявлены первые лауреаты кинопремии «Оскар».
+1979 — в пустыне Сахара выпал снег.
+2003 — пожар в метро южнокорейского города Тэгу.
+
+
+Читать
+
+
+
+Просмотр шаблона
+
+
+
+
+Совместная работа недели
+Приглашаем всех желающих принять участие в работе над статьями о родившихся 24 февраля, а также невыполненными переводами с других интервик.
+
+
+
+Примите также участие в  «Неделе Сибирского федерального округа».
+
+Примите также участие в + «Неделе Фолклендской войны».
+
+
+
+
+
+
+
+Кандидаты
+Архив
+Просмотр шаблона
+
+
+
+
+
+.mw-parser-output .main-wikimedia-header{text-align:center}.mw-parser-output .main-wikimedia-icon{margin:0 0 0.5rem;text-align:center}.mw-parser-output .main-wikimedia-list{column-count:4;column-width:15em;margin-top:0.5rem}.mw-parser-output .main-wikimedia-list>.main-wikimedia-listItem{align-items:stretch;break-inside:avoid;clear:both;display:flex;page-break-inside:avoid;margin-bottom:0.5rem}.mw-parser-output .main-wikimedia-listItem>img{flex:0 auto}.mw-parser-output .main-wikimedia-listItem>a{flex:1;margin-left:-48px;padding-left:56px;position:relative;text-decoration:none}.mw-parser-output .main-wikimedia-listItem>a>em{font-style:normal}.mw-parser-output .main-wikimedia-listItem>a:hover>em{text-decoration:underline}.mw-parser-output .main-wikimedia-listItem>a>small{color:#72777d;display:block;font-size:0.85em;line-height:1.25}@media(max-width:719px){.mw-parser-output .main-wikimedia-header{font-family:inherit;font-size:1em}.mw-parser-output .main-wikimedia-list{font-size:0.85em;column-width:10em}}@media(min-width:720px){.mw-parser-output .main-wikimedia-header{margin-bottom:1rem}.mw-parser-output .main-wikimedia-listItem>a>small{font-size:1em}}@media(min-width:1000px){.mw-parser-output .main-wikimedia-header{margin-left:auto;margin-right:auto;width:80%}}
+
+
+Википедия расположена на серверах Фонда Викимедиа — некоммерческой организации, также обеспечивающей работу ряда других проектов
+
+Викисловарь Словарь
+Викицитатник Цитаты
+Викиучебник Учебники
+Викитека Библиотека текстов
+Викиновости Новости
+Викиверситет Обучающие материалы
+Викивиды Каталог биологических видов
+Медиавики Вики-движок
+Викиданные База знаний
+Викисклад Хранилище медиафайлов
+Викигид Путеводитель
+Мета-вики Координация сообществ и документация
+
+
+
+
+
+
+
+ 
+						Источник — https://ru.wikipedia.org/w/index.php?title=Заглавная_страница&oldid=97327426 
+Скрытая категория: Википедия:Страницы с ежечасно очищаемым кэшем 
+
+
+
+Навигация
+
+
+Персональные инструменты
+
+Вы не представились системеОбсуждениеВкладСоздать учётную записьВойти 
+
+
+
+Пространства имён
+
+ЗаглавнаяОбсуждение 
+
+
+
+
+Варианты
+
+
+
+
+
+
+
+Просмотры
+
+ЧитатьПросмотр кодаИстория 
+
+
+
+Ещё
+
+
+
+
+
+Поиск
+
+
+
+ 
+
+
+
+
+
+
+
+Навигация
+
+
+Заглавная страницаРубрикацияУказатель А — ЯИзбранные статьиСлучайная статьяТекущие события 
+
+
+
+Участие
+
+
+Сообщить об ошибкеСообществоФорумСвежие правкиНовые страницыСправкаПожертвовать 
+
+
+
+Инструменты
+
+
+Ссылки сюдаСвязанные правкиСлужебные страницыПостоянная ссылкаСведения о страницеЭлемент ВикиданныхЦитировать страницу 
+
+
+
+Печать/экспорт
+
+
+Создать книгуСкачать как PDFВерсия для печати 
+
+
+
+В других проектах
+
+
+ВикискладMediaWikiМета-викиВикивидыВикиучебникВикиданныеВикиновостиВикицитатникВикитекаВикиверситетВикигидВикисловарь 
+
+
+
+На других языках
+
+
+العربيةAzərbaycancaБашҡортсаБеларускаяБеларуская (тарашкевіца)‎БългарскиНохчийнČeštinaЧӑвашлаDanskDeutschΕλληνικάEnglishEspañolEestiفارسیSuomiFrançaisעבריתMagyarՀայերենItaliano日本語ქართულიҚазақша한국어LietuviųLatviešuNederlandsNorskИронPolskiPortuguêsRomânăСаха тылаСрпски / srpskiSvenskaTürkçeТатарча/tatarçaУкраїнськаTiếng Việt中文 
+
+
+
+
+
+
+ Эта страница в последний раз была отредактирована 7 января 2019 в 16:51.
+Текст доступен по лицензии Creative Commons Attribution-ShareAlike; в отдельных случаях могут действовать дополнительные условия.
+Подробнее см. Условия использования.
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации Wikimedia Foundation, Inc.
+
+
+Политика конфиденциальности
+Описание Википедии
+Отказ от ответственности
+Свяжитесь с нами
+Разработчики
+Соглашение о cookie
+Мобильная версия
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.649","ppvisitednodes":{"value":1850,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97141,"limit":2097152},"templateargumentsize":{"value":37772,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":26314,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  457.942      1 -total"," 84.91%  388.818      8 Шаблон:Раздел_заглавной_страницы"," 28.08%  128.608      6 Шаблон:Заглавная/Статья"," 21.74%   99.560      3 Шаблон:Текущая_избранная_статья"," 16.91%   77.451     24 Шаблон:Yesno"," 16.10%   73.736      1 Шаблон:Работа_недели"," 15.32%   70.153      3 Шаблон:Последние_хорошие_статьи"," 14.50%   66.382      3 Шаблон:Текущая_хорошая_статья"," 13.98%   64.025      1 Шаблон:Сначала_имя","  9.07%   41.550      1 Шаблон:Str_find"]},"scribunto":{"limitreport-timeusage":{"value":"0.031","limit":"10.000"},"limitreport-memusage":{"value":1395910,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190218080059","ttl":3600,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0417\u0430\u0433\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-27T10:57:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d8\/NASA_Mars_Rover.jpg","headline":"\u0437\u0430\u0433\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1327"});});
+
+
