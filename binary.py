@@ -25,6 +25,6 @@ def search(query: str, index_csv_path: str) -> [str]:
     return list(result)
 
 if __name__ == "__main__":
-    print(search("планктон ух", "./inverted_index.csv"))
+    print(search("Вышел новый релиз", "./inverted_index.csv"))
 
 
