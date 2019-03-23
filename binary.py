@@ -14,7 +14,7 @@ def search(query: str, index_csv_path: str) -> [str]:
         reader = csv.DictReader(f, delimiter=',')
         for line in reader:
             for word in lemms:
-                doc_lists.append(ast.literal_eval(line[word]))
+                doc_lists.append(ast.literal_eval(line.get(word, '[]')))
 
     result = set()
     if len(doc_lists) > 0:
