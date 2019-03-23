@@ -2,10 +2,13 @@
 
 import os
 import pymorphy2
+from typing import List
+
+morph = pymorphy2.MorphAnalyzer()
 
 # list of words
 # langs as two symbol code
-def lem(morph, words):
+def lem(words):
     trueWords = []
     for word in words:
         iWord = morph.parse(u"" + word)[0].normal_form
@@ -13,8 +16,15 @@ def lem(morph, words):
             trueWords.append(iWord)
     return trueWords
 
+def lemm_str(raw: str) -> List[str]:
+    lemms = []
+    for word in raw.split():
+        if isHealthyWord(word):
+            lemms.append(morph.parse(u"" + word)[0].normal_form)
+    return lemms
+
+
 def main():
-    morph = pymorphy2.MorphAnalyzer()
     rawDirectory = './pages'
     cleanDirectory = './lem'
     rawPaths = os.listdir(rawDirectory)
@@ -26,7 +36,7 @@ def main():
                 if isHealthyWord(word):
                     uglyWords.append(word)
         muddyFile.close()
-        pureWords = lem(morph, uglyWords)
+        pureWords = lem(uglyWords)
 
         pureFile = open(cleanDirectory + '/' + rawPath, 'w')
         pureFile.write(" ".join(pureWords))
