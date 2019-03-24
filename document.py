@@ -8,6 +8,15 @@ class Document:
         self.words = []
         self.words.extend(words)
 
+    def __eq__(self, other):
+        if self.__class__ == other.__class__:
+            return self.name == other.name
+        return False
+
+    def __hash__(self):
+        return hash(self.name)
+
+
 #
 # set name of docs as simple name of file
 #
