@@ -14,7 +14,7 @@ def calc_doc_len(doc: Document, tf_idf: TfIdf) -> float:
 
 
 if __name__ == "__main__":
-    query = "Вышел новый релиз lxde"
+    query = "релиз нового Firefox"
     lemm = lemm_str(query)
     docs = document.read_docs('./lem')
     query_doc = Document("query", lemm)
@@ -33,6 +33,11 @@ if __name__ == "__main__":
         word_tf = tic.tf(word, query_doc)
         word_tf_idf = word_tf * word_idf
         query_map[word] = word_tf_idf
+        print(word)
+        print(word_idf)
+        print(word_tf)
+        print(word_tf_idf)
+
 
     answers = []
     query_len = math.sqrt(sum([math.pow(i, 2) for i in query_map.values()]))

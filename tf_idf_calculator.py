@@ -23,9 +23,9 @@ def idf(word: str, documents: Documents) -> float:
         if word in document.words:
             matches = matches + 1
 
-    if matches == 0:
-        return 0
-    return math.log2(len(documents) / matches)
+#    if matches == 0:
+#        return 0
+    return math.log2(len(documents) / (1 + matches))
 
 
 def tf_idf(word: str, document: Document, documents: Documents) -> float:
@@ -46,6 +46,8 @@ def all_idf(words: Words, documents: Documents) -> Idf:
     all_idfs = {}
     for word in words:
         all_idfs[word] = idf(word, documents)
+        if word == 'firefox':
+            print(all_idfs[word])
     return all_idfs
 
 
@@ -64,6 +66,7 @@ if __name__ == "__main__":
     all_words = set()
     for doc in docs:
         all_words.update(doc.words)
+    print(all_words)
 
     tfs = all_tf(all_words, docs)
     til.save_tf('./tf_idf/tf.pickle', tfs)
