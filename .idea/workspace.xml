@@ -2,7 +2,214 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dddb5a5-d8c8-4b93-a385-adfe64e055f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tf_idf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_idf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/info_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/info_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inverted_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/inverted_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lem/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lem/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_idf/idf.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/tf_idf/idf.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_idf/tf.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/tf_idf/tf.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_idf/tf_idf.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/tf_idf/tf_idf.pickle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +218,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tf_idf_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+            <state relative-caret-position="260">
+              <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -25,9 +232,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tf_idf_loader.py">
+        <entry file="file://$PROJECT_DIR$/inverted.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_read.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/binary.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lematization.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <element signature="e#38#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_idf_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -43,7 +308,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tf_idf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="17">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -62,6 +327,7 @@
       <list>
         <option value="$PROJECT_DIR$/tf_idf_loader.py" />
         <option value="$PROJECT_DIR$/tf_idf_calculator.py" />
+        <option value="$PROJECT_DIR$/crawler.py" />
       </list>
     </option>
   </component>
@@ -94,6 +360,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -109,7 +376,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tf_idf_calculator">
+    <configuration name="crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="info_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inverted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="info_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inverted.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lematization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="info_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lematization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tf_idf_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="info_search" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,6 +464,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.tf_idf_calculator" />
+        <item itemvalue="Python.inverted" />
+        <item itemvalue="Python.lematization" />
+        <item itemvalue="Python.crawler" />
       </list>
     </recent_temporary>
   </component>
@@ -151,43 +484,59 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1918" height="1059" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32953367" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5002636" side_tool="true" weight="0.32953367" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49973643" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49973643" visible="true" weight="0.32792208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32954547" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002636" side_tool="true" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tf_idf_loader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tf_idf.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tf_idf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="17">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -195,10 +544,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/binary.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_idf_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links.pickle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect.pickle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/bz2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4539">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lem/3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lematization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="e#38#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inverted_index.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1836" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inverted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tf_idf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tf_idf_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        <state relative-caret-position="260">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
