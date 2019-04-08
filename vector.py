@@ -5,6 +5,7 @@ import tf_idf_calculator as tic
 from tf_idf import Tf, Idf, TfIdf
 from lematization import lemm_str
 from document import Document
+from pagerank import pagerank
 
 def calc_doc_len(doc: Document, tf_idf: TfIdf) -> float:
     result = 0
@@ -54,4 +55,4 @@ if __name__ == "__main__":
     answers = list(map(lambda x: (x[0].name, x[1]), 
             sorted(answers, key=lambda i: i[1], reverse=True)))
 
-    print(answers)
+

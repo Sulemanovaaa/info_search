@@ -4,7 +4,8 @@ import os
 import ast
 import csv
 from lematization import lemm_str
-
+from pagerank import pagerank
+import operator
 
 def search(query: str, index_csv_path: str) -> [str]:
     lemms = lemm_str(query)
@@ -25,6 +26,9 @@ def search(query: str, index_csv_path: str) -> [str]:
     return list(result)
 
 if __name__ == "__main__":
-    print(search( "релиз Firefox", "./inverted_index.csv"))
+    query = input("Enter your request:")
+    answers = search(query, "./inverted_index.csv")
+    for item in pagerank(answers):
+        print(item)
 
 
