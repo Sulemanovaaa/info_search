@@ -14,7 +14,8 @@ def calc_doc_len(doc: Document, tf_idf: TfIdf) -> float:
 
 
 if __name__ == "__main__":
-    query = "релиз нового Firefox"
+    query = input("Enter your request:")
+    print("You entered" + query)
     lemm = lemm_str(query)
     docs = document.read_docs('./lem')
     query_doc = Document("query", lemm)

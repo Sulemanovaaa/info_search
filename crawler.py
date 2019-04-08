@@ -29,7 +29,6 @@ def web(page, WebUrl, baseUrl, xpathList, from_page=None):
         links = []
         for xpath in xpathList:
             links.extend(tree.xpath(xpath))
-        print(links)
         for link in links:
             if (page > 0):
                 if (isLinkValid(link)):
@@ -59,7 +58,6 @@ def load_redirect_map() -> Dict[str, List[str]]:
     with open('./redirect.pickle', 'rb') as f:
         red = pickle.load(f)
     return red
-
 
 def isLinkValid(href):
     if (href == None):
